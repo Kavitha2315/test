@@ -1,0 +1,35 @@
+{
+  "Name": "Testconnector",
+  "Description": "",
+  "ConnectorInfo": {
+    "Tags": [ "Odata" ],
+    "Template": {
+      "Method": "get",
+      "AuthenticationType": "Basic",
+      "URL": "https://jsonplaceholder.typicode.com/users",
+      "Parameters": [
+        {
+          "key": "URLParam",
+          "value": "http://northwind.netcore.io/orders.json",
+          "isHidden": false
+        },
+        {
+          "key": "Connections",
+          "value": "de4edw98cds#23",
+          "isHidden": true
+        }
+      ],
+      "Headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/x-www-form-urlencoded"
+        },
+        {
+          "key": "Caller",
+          "value": "google.com",
+          "isHidden": false
+        }
+      ]
+    }
+  }
+}
