@@ -1,9 +1,4 @@
-{
-   "plus_code" : {
-      "compound_code" : "P27Q+MC New York, NY, USA",
-      "global_code" : "87G8P27Q+MC"
-   },
-   "results" : [
+ [
       {
          "address_components" : [
             {
@@ -78,10 +73,6 @@
             "point_of_interest",
             "store"
          ]
-      },
+      }
 
-   ... Additional results truncated in this example[] ...
-
-   ],
-   "status" : "OK"
-}
+   ]
