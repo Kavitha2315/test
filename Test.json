@@ -1,2 +1,6 @@
-[{"companyID":"company_1","SelledID":"1a","SellerName":"sachin","count":33}
-]
+[{"companyID":"company_1","SelledID":"1a","SellerName":"sachin","count":33},{"companyID":"company_1","SelledID":"2a","SellerName":"souvarv","count":77},
+{"companyID":"company_2","SelledID":"2a","SellerName":"john","count":123},{"companyID":"company_2","SelledID":"2a","SellerName":"souvarv","count":998},
+{"companyID":"company_3","SelledID":"3a","SellerName":"wilmk","count":234},{"companyID":"company_3","SelledID":"2a","SellerName":"souvarv","count":0},
+{"companyID":"company_4","SelledID":"4a","SellerName":"william","count":590},{"companyID":"company_4","SelledID":"2a","SellerName":"souvarv","count":0},
+{"companyID":"company_5","SelledID":"5a","SellerName":"jose","count":90},
+{"companyID":"company_5","SelledID":"2a","SellerName":"souvarv","count":10},{"companyID":"company_5","SelledID":"2a","SellerName":"souvarv","count":10}]
